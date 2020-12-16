@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!--
-**ismtabo/ismtabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -28,3 +27,4 @@ Checkout my solutions for the [Advent of Code 2020](https://github.com/ismtabo/a
 ---
 
 <!-- START gadpp -->
+- ismtabo/ismtabo, [refs/heads/main@d9811c98f7ee1ce805211870dc6e6c4b610bb7ca](https://github.com/ismtabo/ismtabo/commit/d9811c98f7ee1ce805211870dc6e6c4b610bb7ca)
