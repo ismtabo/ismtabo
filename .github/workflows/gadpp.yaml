@@ -1,5 +1,8 @@
 name: Update GitHub Profile Page
-on: [push]
+on: 
+  push:
+    branches:
+      - main
 
 jobs:
   gadpp_job:
