@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on [Eleven Paths](https://www.elevenpaths.com/) and participating in [Advent of Code 2020](https://adventofcode.com/)
 - 🌱 I’m currently learning [Deno](https://deno.land/), [Spring](https://spring.io/) + [Kafka](https://kafka.apache.org/)
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ismtabo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismaeltaboada/)](https://www.linkedin.com/in/ismaeltaboada/) [![Telegram Badge](https://img.shields.io/badge/-ismtabo-030B1C?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/ismtabo)](https://t.me/ismtabo) [![Reddit Badge](https://img.shields.io/badge/-ismtabo-black?style=flat-square&logo=Reddit&logoColor=orange&link=https://www.reddit.com/user/ismtabo)](hhttps://www.reddit.com/user/ismtabo)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ismtabo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismaeltaboada/)](https://www.linkedin.com/in/ismaeltaboada/) [![Telegram Badge](https://img.shields.io/badge/-ismtabo-030B1C?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/ismtabo)](https://t.me/ismtabo) [![Reddit Badge](https://img.shields.io/badge/-ismtabo-black?style=flat-square&logo=Reddit&logoColor=orange&link=https://www.reddit.com/user/ismtabo)](https://www.reddit.com/user/ismtabo)
 - ⚡ Fun fact: Sometimes I forget to eat while I am coding 😰
 
 [![Ismtabo's github stats](https://github-readme-stats.vercel.app/api?username=ismtabo&count_private=true&theme=dark)](https://github.com/ismtabo/github-readme-stats)
@@ -29,4 +29,4 @@ Checkout my solutions for the [Advent of Code 2020](https://github.com/ismtabo/a
 ### Recent commits
 
 <!-- START gadpp -->
-- ismtabo/ismtabo, [refs/heads/main@3e6d7b0217bb6c2e81e4fb943eb8b4ea72c73c2e](https://github.com/ismtabo/ismtabo/commit/3e6d7b0217bb6c2e81e4fb943eb8b4ea72c73c2e)
+- ismtabo/ismtabo, [refs/heads/main@acd1274fb6ba1cc6d56d25c176320dcc3da73a8a](https://github.com/ismtabo/ismtabo/commit/acd1274fb6ba1cc6d56d25c176320dcc3da73a8a)
