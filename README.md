@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on [Eleven Paths](https://www.elevenpaths.com/)
-- 🌱 I’m currently learning [Deno](https://deno.land/), [Spring](https://spring.io/) + [Kafka](https://kafka.apache.org/)
+- 🌱 I’m currently learning [Deno](https://deno.land/), [Golang](https://golang.org/) and [Redis](https://redis.io/)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ismtabo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismaeltaboada/)](https://www.linkedin.com/in/ismaeltaboada/) [![Telegram Badge](https://img.shields.io/badge/-ismtabo-030B1C?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/ismtabo)](https://t.me/ismtabo) [![Reddit Badge](https://img.shields.io/badge/-ismtabo-black?style=flat-square&logo=Reddit&logoColor=orange&link=https://www.reddit.com/user/ismtabo)](https://www.reddit.com/user/ismtabo)
 - ⚡ Fun fact: Sometimes I forget to eat while I am coding 😰
 
