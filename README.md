@@ -29,5 +29,5 @@ Checkout my solutions for the [Advent of Code 2020](https://github.com/ismtabo/a
 ### Recent commits
 
 <!-- START gadpp -->
-- ismtabo/ismtabo, [refs/heads/main@fdf97afabc81590abd7f72cf1f3c328372d9d3ce](https://github.com/ismtabo/ismtabo/commit/fdf97afabc81590abd7f72cf1f3c328372d9d3ce)
+- ismtabo/ismtabo, [refs/heads/main@7710b737edfc2009d7e9bb853933573401e8ceac](https://github.com/ismtabo/ismtabo/commit/7710b737edfc2009d7e9bb853933573401e8ceac)
 
