@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismtabo&theme=dark&layout=compact)](https://github.com/anur)
 
-Checkout my solutions for the [Advent of Code 2021](https://github.com/ismtabo/advent-of-code-2021)
+Checkout my solutions for the [Advent of Code 2022](https://github.com/ismtabo/advent-of-code-2022) (and the [Advent of Code Deno repository template](https://github.com/ismtabo/advent-of-code-deno-template)).
 
 ---
 

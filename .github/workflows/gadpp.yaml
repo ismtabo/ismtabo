@@ -19,4 +19,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           github-username: 'ismtabo'
-          user-email: 'ismael.taboadarodero@telefonica.com'
+          user-email: 'ismael.jtr@gmail.com'
